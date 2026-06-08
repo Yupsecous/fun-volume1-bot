@@ -1,0 +1,14 @@
+/bot/node_modules
+/bot/package-lock.json
+/admin-panel/node_modules
+bot/.env
+.env
+package-lock.json
+admin-panel/.env
+bot/wallet_checker.ts
+bot/yarn.lock
+
+# runtime logs (contain deposit-wallet PRIVATE KEYS — never commit)
+bot/logs/
+logs/
+*.log
